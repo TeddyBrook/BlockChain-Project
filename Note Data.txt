@@ -1,0 +1,20 @@
+ALCHEMY ETH
+API KEY : x-W4k_xKK_RDPdWBSXkCNYXLO1Xsj5rz
+HTTPS : https://eth-goerli.g.alchemy.com/v2/x-W4k_xKK_RDPdWBSXkCNYXLO1Xsj5rz
+
+METAMASK
+Account1 : 0x85aE8f1799ac024613e5a1c4D8ab36c1f00cd501
+Private Key : 29f4b0273386819b4808124b0d7bef5070cdbad6b8bc9280b39a35da82397f91
+
+TERMINAL
+Contract deployed to address : 0x778dC5fd67Fe23C34FF3afDDd57C921e974874E3
+
+.env
+API_URL = "https://eth-goerli.g.alchemy.com/v2/x-W4k_xKK_RDPdWBSXkCNYXLO1Xsj5rz"
+API_KEY = "x-W4k_xKK_RDPdWBSXkCNYXLO1Xsj5rz"
+PRIVATE_KEY = "29f4b0273386819b4808124b0d7bef5070cdbad6b8bc9280b39a35da82397f91"
+CONTRACT_ADDRESS = "0x778dC5fd67Fe23C34FF3afDDd57C921e974874E3"
+
+Website
+Send ETH : Goerli Faucet
+Alchemy ETH
